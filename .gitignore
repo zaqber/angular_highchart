@@ -1,0 +1,29 @@
+# Node artifacts
+node_modules/
+
+# Compiled output
+dist/
+tmp/
+*.o
+*.ko
+*.obj
+*.elf
+
+# Logs and databases
+logs/
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
